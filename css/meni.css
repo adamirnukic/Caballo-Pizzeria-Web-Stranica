@@ -1,0 +1,76 @@
+body{
+    font-size: 12px;
+    line-height: 22px;
+}
+.naslov{
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 50px;
+
+}
+.naslov h4{
+    font-size: 40px;
+    font-family: bootstrap-icons;
+}
+.jelovnik-col-12{
+    margin-left: 105px;
+    margin-top: 50px;
+}
+.jelovnik-section-padding{
+    background-color: white;
+}
+.jelovnik-row1{
+    background-color: white;
+}
+.red{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 20px;
+    margin-left: 52px;
+}
+.jedan{
+    height: 350px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-content: center;
+    align-items: center;
+    position: relative;
+}
+.jedan img{
+    height: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.jedan h5{
+    color: var(--primary-color);;
+    padding-bottom: 5px;
+    text-align: left;
+    width: 100%;
+}
+.tekst p{
+    font-size: 12px;
+    text-align: left;
+    margin: 0px 0;
+}
+
+.tekst{
+    width: 73%;
+    padding: 0px;
+    display: inline-block;
+}
+.cijena{
+    color: var(--primary-color);
+    font-size: 16px !important;
+    font-weight: bold;
+    display: inline-block;
+}
+
+
+
+

@@ -1,0 +1,101 @@
+{
+  "korisnici": [
+    {
+      "id": "1",
+      "email": "restoran.caballo@gmail.com",
+      "password": "admin",
+      "admin": true,
+      "imePrezime": "Nisvet Kadrić",
+      "telefon": "061 111 111",
+      "adresa": "Strosmajerova 10"
+    },
+    {
+      "id": "42fb",
+      "email": "abidabiogradlija@gmail.com",
+      "password": "Abida123",
+      "admin": false,
+      "imePrezime": "Abida Biogradlija",
+      "telefon": "061 123 456",
+      "adresa": "Crkvice 123"
+    },
+    {
+      "id": "727a",
+      "email": "adamirnukic@gmail.com",
+      "password": "Adamir321",
+      "admin": false,
+      "imePrezime": "Adamir Nukic",
+      "telefon": "060 3299 025",
+      "adresa": "Strosmajerova 18"
+    },
+    {
+      "id": "1350",
+      "email": "adamirnuk1c@gmail.com",
+      "password": "adamir1",
+      "admin": false,
+      "imePrezime": "Adamir Nukic",
+      "telefon": "0603299025",
+      "adresa": "Strosmajerova 18"
+    }
+  ],
+  "porukeKontakt": [
+    {
+      "idKontakt": "123",
+      "imeKontakt": "Alma",
+      "emailKontakt": "alma.osmanbegovic@gmail.com",
+      "subjekatKontakt": "Posao",
+      "porukaKontakt": "Da li Vam je potrebna radnica?",
+      "id": "0cc4"
+    },
+    {
+      "id": "5768",
+      "imeKontakt": "Abida",
+      "emailKontakt": "abidabiogradlija@gmail.com",
+      "subjekatKontakt": "Konobarica",
+      "porukaKontakt": "Trebate konobaricu?"
+    },
+    {
+      "id": "9538",
+      "imeKontakt": "Adamir Nukic",
+      "emailKontakt": "adamir@gmail.com",
+      "subjekatKontakt": "Pitanje",
+      "porukaKontakt": "Da li vrsite narudzbe?"
+    },
+    {
+      "id": "517b",
+      "imeKontakt": "Adamir Nukic",
+      "emailKontakt": "adamir@gmail.com",
+      "subjekatKontakt": "Pitanje",
+      "porukaKontakt": "Da li vam je ptoreba rand"
+    }
+  ],
+  "Rezervacije": [
+    {
+      "idRezervacija": "234",
+      "imePrezimeRezervacija": "Abdulah Kapetanović",
+      "telefonRezervacija": "062 123 456",
+      "datumRezervacija": "12.06.2024",
+      "vrijemeRezervacija": "16:00",
+      "brojGostiju": "2",
+      "posebniZahtjevi": "Sviječe na stolu",
+      "id": "3692"
+    },
+    {
+      "id": "ce64",
+      "imePrezimeRezervacija": "Abida Bio",
+      "telefonRezervacija": "061 111 111",
+      "datumRezervacija": "2024-06-16",
+      "vrijemeRezervacija": "11:11",
+      "brojGostiju": "5",
+      "posebniZahtjevi": "CVECE"
+    },
+    {
+      "id": "7f32",
+      "imePrezimeRezervacija": "Abida Biogradlija",
+      "telefonRezervacija": "060 3299 025",
+      "datumRezervacija": "2024-06-28",
+      "vrijemeRezervacija": "12:12",
+      "brojGostiju": "9",
+      "posebniZahtjevi": ""
+    }
+  ]
+}
